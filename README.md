@@ -225,3 +225,9 @@ For a dataset exceeding 100M records, the Gold table could be optimized using:
 * cloud data warehouses (BigQuery, Snowflake, Redshift)
 
 These approaches would improve query performance and support scalable BI dashboards.
+
+---
+
+## License
+
+© 2026 Valantis Fagogenis. All rights reserved. See [LICENSE](LICENSE).
